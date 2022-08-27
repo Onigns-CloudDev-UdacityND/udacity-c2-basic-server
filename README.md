@@ -9,9 +9,9 @@ This is a simple node-express server to explore and understand the Request-Respo
 
 This project uses NPM to manage software dependencies. NPM Relies on the package.json file located in the root of this repository. After cloning, open your terminal and run:
 ```bash
-npm install
+pnpm install
 ```
->_tip_: **npm i** is shorthand for **npm install**
+>_tip_: **pnpm i** is shorthand for **npm install**
 
 ### Installing useful tools
 #### 1. [Postbird](https://github.com/paxa/postbird)
